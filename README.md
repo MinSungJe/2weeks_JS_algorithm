@@ -1,5 +1,7 @@
 # 자바스크립트 2주 알고리즘 재활치료
 
+- 모든 문제는 **프로그래머스** 링크로 제공합니다.
+
 ## ⭐ 오늘의 문제
 
 - [바로가기](https://github.com/MinSungJe/2weeks_JS_algorithm/tree/main/%EB%AC%B8%EC%A0%9C/Day01)
@@ -9,10 +11,12 @@
 ### **😊 (basic)**
 
 - 기본적인 구현문제 2개
+- level 1
 
 ### **😎 (special)**
 
 - 특정 알고리즘 문제 1개
+- level 2, 3
 
 ## 🏥 모든 처방전
 
