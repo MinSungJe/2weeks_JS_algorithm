@@ -2,10 +2,6 @@
 
 - 모든 문제는 **프로그래머스** 링크로 제공합니다.
 
-## ⭐ 오늘의 문제
-
-- [14일차 바로가기](https://github.com/MinSungJe/2weeks_JS_algorithm/tree/main/%EB%AC%B8%EC%A0%9C/Day14)
-
 ## 💉 하루 당 구성
 
 ### **😊 (basic)**
